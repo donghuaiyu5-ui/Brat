@@ -20,7 +20,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(600, 500);
+  createCanvas(500, 500);
   textAlign(CENTER, CENTER);
   textFont("Arial");
   textStyle(BOLD);
